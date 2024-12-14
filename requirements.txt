@@ -1,0 +1,2 @@
+cryptography==40.0.2
+Requests==2.30.0
